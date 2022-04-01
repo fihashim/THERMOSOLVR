@@ -7,4 +7,3 @@ A parallelised and fully functional C++ 2017 program, THERMOSOLVR was developed 
   
 
 
-[toc.pdf](https://github.com/fihashim/THERMOSOLVR/files/8394659/toc.pdf)
