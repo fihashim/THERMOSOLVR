@@ -5,6 +5,6 @@ A parallelised and fully functional C++ 2017 program, THERMOSOLVR was developed 
   <img width="336" alt="image" src="https://user-images.githubusercontent.com/42868568/161193744-3d69190e-097d-4feb-877e-0ec0dcaac7ce.png">
   </p>
   
-  ![image](https://user-images.githubusercontent.com/42868568/161194093-9181fa83-05ba-40b1-8c71-f671d30e1621.png)
 
 
+[toc.pdf](https://github.com/fihashim/THERMOSOLVR/files/8394659/toc.pdf)
