@@ -1,2 +1,3 @@
 # THERMOSOLVR
-C++ 2017 THERMOSOLVR Code
+A parallelised and fully functional C++ 2017 program, THERMOSOLVR was developed over the course of my PhD studies in 2022. This program relies on the Quantum Cluster Equilibrium (QCE) theory which aims to predict/understand the thermodynamic properties of neat liquids. Originally developed in 1998 by Weinhold, QCE theory relies on the premise that the liquid phase of a molecular system (i.e H2O, (CH3)2SO) can be represented as varying sized clusters, owing to the existence of the thermodynamic critical point (a specific temperature-pressure combination that allows the gas and liquid phase to co-exist).
+
