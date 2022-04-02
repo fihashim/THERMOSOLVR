@@ -12,3 +12,10 @@ It is therefore possible to extend standard statistical thermodynamic equations 
 <img src="images/Screen Shot 2022-04-01 at 12.17.25 pm.png" width=50% height=50%>
   </p>
 
+To read more on the foundations of QCE Theory, refer to:
+
+(1) F. Weinhold , "Quantum cluster equilibrium theory of liquids: General theory and computer implementation", J. Chem. Phys. 109, 367-372 (1998) [https://doi.org/10.1063/1.476573] (https://doi.org/10.1063/1.476573)
+
+(2) F. Weinhold , "Quantum cluster equilibrium theory of liquids: Illustrative application to water", J. Chem. Phys. 109, 373-384 (1998) [https://doi.org/10.1063/1.476574] (https://doi.org/10.1063/1.476574)
+
+(3) Marc Brüssel, Eva Perlt, Sebastian B. C. Lehmann, Michael von Domaros, and Barbara Kirchner , "Binary systems from quantum cluster equilibrium theory", J. Chem. Phys. 135, 194113 (2011) [https://doi.org/10.1063/1.3662071] (https://doi.org/10.1063/1.3662071)
