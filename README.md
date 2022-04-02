@@ -9,6 +9,6 @@ It is therefore possible to extend standard statistical thermodynamic equations 
 
 
 <p align="center">
-<img src="images/Screen Shot 2022-04-01 at 12.17.25 pm.png">
+<img src="images/Screen Shot 2022-04-01 at 12.17.25 pm.png" width=50% height=50%>
   </p>
 
