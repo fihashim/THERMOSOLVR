@@ -8,5 +8,7 @@ A parallelised and fully functional C++17 program, THERMOSOLVR was developed ove
 It is therefore possible to extend standard statistical thermodynamic equations originally devised for gases to also elucidate liquid phase properties due to the thermodynamic critical point. Based on this fundamental principle, Weinhold further theorised that differences between a low density gas and its more structured liquid counterpart can be accounted for by considering molecular clusters (as shown below) as an intermediate species between the two states.
 
 
-
+<p align="center">
+<img src="images/Screen Shot 2022-04-01 at 12.17.25 pm.png">
+  </p>
 
